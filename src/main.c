@@ -4,7 +4,7 @@
 #include "math_operations.h"
 
 int main() {
-  printf("Hello. It's calcultor. Sorry it isn't so smat. You can use numbers and some operations: +, -, *, /");
+  printf("Hello. It's a calcultor. Sorry it isn't so smat. You can use numbers and some operations: +, -, *, /");
   printf("\nPlease use ^C, if you want to stop\n");
   double num1 = 0.0;
   scanf_checker("%lf", &num1);
