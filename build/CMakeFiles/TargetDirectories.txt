@@ -1,0 +1,3 @@
+/home/ekaterina/Documents/study/proga/aiap/calculator/build/CMakeFiles/calculator.dir
+/home/ekaterina/Documents/study/proga/aiap/calculator/build/CMakeFiles/edit_cache.dir
+/home/ekaterina/Documents/study/proga/aiap/calculator/build/CMakeFiles/rebuild_cache.dir
