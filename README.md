@@ -16,5 +16,7 @@ It's a simple calculator
   │   ├── scanf_checker.h
   │   └── math_operations.h
   ├──CMakeLists.txt
+  ├──README.md
+  ├──.gitignore
   └──build.sh
 ```
