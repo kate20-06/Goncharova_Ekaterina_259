@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/calculator.dir/src/main.c.o CMakeFiles/calculator.dir/src/scanf_checker.c.o CMakeFiles/calculator.dir/src/math_operations.c.o -o calculator 
